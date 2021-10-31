@@ -1,14 +1,14 @@
-### Whole Masoor ###
+### Whole Moong ###
 
 ```
-Note: Only use Whole Masoor
+Note: Only use Whole Moong
 ```
 
 #### Making of Daal ####
-1. Put water in cooker (Note: It should be 3-4 time of daal quantity)
-2. Add Salt, Red Chilli Powder, Turmeric powder and Ginger-Garlic Paste.
+1. Put water in cooker (Note: It should be 4 time of daal quantity)
+2. Add Salt, Red Chilli Powder, Turmeric powder, Coriender Powder and Ginger-Garlic Paste.
 3. Add Daal.
-4. Close the lid and Cook it for like 4-5 Wistle.
+4. Close the lid and Cook it for like 5-6 Wistle.
 5. When daal is cooked, add tadka.
 6. Add 1/2 tea spoon of garam masal.
 7. Add Chopped Cilantro and Chillis
