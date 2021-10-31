@@ -5,7 +5,7 @@ Note: Only use split daal in this
 ```
 
 #### Making of Daal ####
-1. Put water in cooker (Note: It should be 3 time of daal quantity)
+1. Put water in cooker (Note: It should be 2 time of daal quantity)
 2. Add Salt, Red Chilli Powder, Turmeric powder and Ginger-Garlic Paste.
 3. Add Daal.
 4. Close the lid and Cook it for like 1-2 Wistle.
